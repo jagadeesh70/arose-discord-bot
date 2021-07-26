@@ -8,7 +8,6 @@ client = commands.Bot(command_prefix='n13 ')
 
 
 @client.remove_command("help")
-# event
 @client.event
 async def on_ready():
     await client.change_presence(status=discord.Status.online, activity=discord.Game(name=f'n13 help', type=2))

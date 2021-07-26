@@ -30,6 +30,8 @@ python arosebot.py
 
 ## Usage:
 
+![alt text](https://github.com/jagadeesh70/arose-discord-bot/blob/master/Images/setup-usage.png)
+
 I won't mind if you take some code to learn or improve but please don't be a skid.
 
 Feel free to ask me questions, B1nl4den#0001 on Discord.

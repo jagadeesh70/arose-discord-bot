@@ -11,13 +11,22 @@
 
 <h4 align ="center">Music, Moderation, Fun.</h4>
 
-Arose bot is a discord bot
+Arose is a discord bot. Simple bot create for fun.
 
 ### Requires:
 
 - Python 3.7
 - [discord.py](https://github.com/rapptz/discord.py)
 - lots of Python modules
+
+## Setup for use
+
+```bash
+git clone https://github.com/jagadeesh70/arose-discord-bot.git
+cd arose-discord-bot
+pip install -r requirements.txt
+python arosebot.py
+```
 
 I won't mind if you take some code to learn or improve but please don't be a skid.
 

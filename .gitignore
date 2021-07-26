@@ -27,12 +27,13 @@ share/python-wheels/
 .installed.cfg
 
 # Some personal files
-data/varshith
+data/varshit
 data/harith
 data/binladen
 data/ranjith
 data/arose
 data/den
+data/names
 
 
 settings

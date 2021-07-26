@@ -11,7 +11,7 @@
 
 <h4 align ="center">Music, Moderation, Fun.</h4>
 
-Arose is a discord bot. Simple bot create for fun.
+Arose is a discord bot. Simple bot created for fun.
 
 ### Requires:
 

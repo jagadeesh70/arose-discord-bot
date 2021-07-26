@@ -1,0 +1,25 @@
+{
+    "slap":"**Usage:**\n`n13 slap @mention_someone`\n**Description:**\nSlap someone you love the most",
+    "hello":"**Usage:**\n`n13 hello`\n**Aliases:**\n`helo`\n**Description:**\nArose bot will respond you :)",
+    "name" :"**Usage:**\n`n13 name`\n**Description:**\nBot will say its name",
+    "parents": "**Usage:**\n`n13 parents`\n**Description:**\nReveal of bot parents",
+    "whoisnoob": "**Usage:** \n`n13 whoisnoob`\n**Aliases:**\n`win`\n**Description:**\nNoob will be revealed xD",
+    "clear":"**Usage:**\n`n13 clear amount` eg. n13 clear 10\n**Description:**\nDeletes the amount of meassage you specify",
+    "clearall":"**Usage:**\n`n13 clearall`\n**Description:**\nDeletes 1e7 amount of meassages",
+    "insult":"**Usage:**\n`n13 insult @mention_someone`\n**Description:**\nSick of someone? Easy! Just roast them!",
+    "scoldme": "**Usage:**\n`n13 scoldme`\n**Description:**\nBot will join a voice chat and scold you ",
+    "play":"**Usage:**\n`n13 play (song_name)`\n**Description:**\nPlays a song.If there are songs in the queue, this will be queued until the other songs finished playing.",
+    "join":"**Usage:**\n`n13 join`\n**Description:**\nBot will join a voice channel.",
+    "summon":"**Usage:**\n`n13 summon`\n**Description:**\nSummons the bot to a voice channel.",
+    "leave":"**Usage:**\n`n13 leave`\n**Description:**\nClears the queue and leaves the voice channel.",
+    "now":"**Usage:**\n`n13 now`\n**Description:**\nDisplays the currently playing song.",
+    "pause":"**Usage:**\n`n13 pause`\n**Description:**\nPauses the currently playing song.",
+    "resume":"**Usage:**\n`n13 resume`\n**Description:**\nResumes a currently paused song.",
+    "stop":"**Usage:**\n`n13 stop`\n**Description:**\nStops playing song and clears the queue.",
+    "skip":"**Usage:**\n`n13 skip`\n**Description:**\nVote to skip a song. The requester can automatically skip.3 skip votes are needed for the song to be skipped.",
+    "queue":"**Usage:**\n`n13 queue`\n**Description:**\nShows the player's queue.",
+    "shuffle":"**Usage:**\n`n13 shuffle`\n**Description:**\nShuffles the queue.",
+    "remove":"**Usage:**\n`n13 remove`\n**Description:**\nRemoves a song from the queue at a given index.",
+    "loop":"**Usage:**\n`n13 loop`\n**Description:**\nLoops the currently playing song.\nInvoke this command again to unloop the song."
+
+}

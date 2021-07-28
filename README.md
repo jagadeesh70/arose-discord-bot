@@ -28,6 +28,21 @@ pip install -r requirements.txt
 python arosebot.py
 ```
 
+### Heroku
+
+You can host this bot on Heroku.
+
+Installation via Heroku is possible with your web browser alone.
+The [**installation guide**](https://github.com/kyb3r/modmail/wiki/Installation) (which includes a video tutorial!) will guide you through the entire installation process. If you run into any problems, join our [Modmail Discord Server](https://discord.gg/etJNHCQ) for help and support.
+
+To configure automatic updates:
+
+- Login to [GitHub](https://github.com/) and verify your account.
+- [Fork the repo](https://github.com/kyb3r/modmail/fork).
+- Install the [Pull app](https://github.com/apps/pull) for your fork.
+- Then go to the Deploy tab in your [Heroku account](https://dashboard.heroku.com/apps) of your bot app, select GitHub and connect your fork (usually by typing "Modmail").
+- Turn on auto-deploy for the `master` branch.
+
 ## Usage:
 
 ![alt text](https://github.com/jagadeesh70/arose-discord-bot/blob/master/Images/setup-usage.png)

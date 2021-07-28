@@ -33,7 +33,7 @@ python arosebot.py
 You can host this bot on Heroku.
 
 Installation via Heroku is possible with your web browser alone.
-The [**installation guide**](https://github.com/kyb3r/modmail/wiki/Installation) (which includes a video tutorial!) will guide you through the entire installation process. If you run into any problems, join our [Modmail Discord Server](https://discord.gg/etJNHCQ) for help and support.
+The [**installation guide**](https://github.com/kyb3r/modmail/wiki/Installation) (which includes a video tutorial!) will guide you through the entire installation process.
 
 To configure automatic updates:
 
@@ -42,6 +42,8 @@ To configure automatic updates:
 - Install the [Pull app](https://github.com/apps/pull) for your fork.
 - Then go to the Deploy tab in your [Heroku account](https://dashboard.heroku.com/apps) of your bot app, select GitHub and connect your fork (usually by typing "Modmail").
 - Turn on auto-deploy for the `master` branch.
+- To add FFMPEG in build pack use this `https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git`
+- Add this `https://github.com/codeinteger6/heroku-buildpack-libopus.git` to build pack else ffmpeg cause some error
 
 ## Usage:
 
